@@ -7,8 +7,8 @@ Pertinent Information
 4.	grader server login - ssh grader@18.236.32.98 -p 2200 -i ~/.ssh/grader_rsa
 5.	grader login passphrase – grader
 6.	grader sudo password – grader
-Summary of Software installed
 
+Summary of Software installed
 1.	Apache/2.4.28 (Ubuntu 16.04)
 2.	PostgreSQL 9.5
 3.	Python 2.7.12, 3.5.2
