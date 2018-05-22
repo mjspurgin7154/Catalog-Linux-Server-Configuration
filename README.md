@@ -5,7 +5,7 @@ Pertinent Information
 2.	IP Address – 18.236.32.98
 3.	URL – http://ec2-18-236-32-98.us-west-2.compute.amazonaws.com/catalog/
 4.	grader server login - ssh grader@18.236.32.98 -p 2200 -i ~/.ssh/grader_rsa
-5.	grader login passphrase – grader
+5.	grader ssh passphrase – grader
 6.	grader sudo password – grader
 
 Summary of Software installed
