@@ -36,19 +36,21 @@ Summary of Configurations Made
 12.	Install and configure PostgreSQL to serve the item Catalog application.
 13.	Install git
 14.	Clone and setup the item catalog application.
-15.	Install and configure virtual environment (catalogvenv).
-16.	Restart Apache2
-17.	Log onto web application using URL 
+15.	Add .htaccess file to make .git directory inaccessible via a browser
+16.	Install and configure virtual environment (catalogvenv).
+17.	Restart Apache2
+18.	Log onto web application using URL 
 
 Third-party resources used to complete the project
-1.	Udacity
+1.	Udacity.com
 2.	flask.pocoo.org
 3.	sqlalchemy.org
 4.	python.org
-5.	GitHub
+5.	GitHub.com
 6.	postgresql.org
 7.	digitalocean.com
 8.	lightsail.aws.amazon.com
 9.	stackoverflow.com
 10.	Ubuntu.com
 11.	Apache.org
+12. Youtube.com
