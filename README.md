@@ -54,3 +54,4 @@ Third-party resources used to complete the project
 10.	Ubuntu.com
 11.	Apache.org
 12. Youtube.com
+13. https://github.com/stueken/FSND-P5_Linux-Server-Configuration.git
